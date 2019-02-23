@@ -65,4 +65,4 @@ bottomNavigationBar: SphereBottomNavigationBar(
 
 
 <img src="images/img.png" alt="drawing" width="200"/>
-<img src="images/img1.png" alt="drawing" width="200"/>
+<img src="images/img2.png" alt="drawing" width="200"/>
